@@ -12,3 +12,8 @@ Tried to classify CIFAR 10 using a 4 layer model in Keras. [Link to Notebook](ht
 
 #### Day 2 - 2nd of January 2019 
 Added a 6 layer model, trained it and compared accuracy between the 2 models. 
+
+#### Day 3 - 3rd of January 2019 
+Tried to figure out why my model sucks so badly. 
+
+
