@@ -10,3 +10,5 @@ I am also very fond of Kaggle, [here is mine](https://www.kaggle.com/perlinwarp)
 #### Day 1 - 1st of January 2019
 Tried to classify CIFAR 10 using a 4 layer model in Keras. [Link to Notebook](https://github.com/PerlinWarp/YearOfAI/blob/master/CIFAR10.ipynb)
 
+#### Day 2 - 2nd of January 2019 
+Added a 6 layer model, trained it and compared accuracy between the 2 models. 
