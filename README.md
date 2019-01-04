@@ -16,4 +16,5 @@ Added a 6 layer model, trained it and compared accuracy between the 2 models.
 #### Day 3 - 3rd of January 2019 
 Tried to figure out why my model sucks so badly. 
 
-
+#### Day 3 - 4rd of January 2019 
+Made a new model and got 84.98% accuracy. 
