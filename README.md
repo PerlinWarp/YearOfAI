@@ -16,5 +16,8 @@ Added a 6 layer model, trained it and compared accuracy between the 2 models.
 #### Day 3 - 3rd of January 2019 
 Tried to figure out why my model sucks so badly. 
 
-#### Day 3 - 4rd of January 2019 
+#### Day 4 - 4rd of January 2019 
 Made a new model and got 84.98% accuracy. 
+
+#### Day 5 - 5th of January 2019 
+Started to work on the CIFAR100 Dataset.
