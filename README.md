@@ -23,4 +23,8 @@ Made a new model and got 84.98% accuracy.
 Started to work on the CIFAR100 Dataset.
 
 #### Day 6 - 6th of Janurary 2019 
-Made a model for CIFAR 100 using the 100 labels, achieving validation accuracy of 57.73% but accuracy of 0.7249.  
+Made a model for CIFAR 100 using the 100 labels, achieving validation accuracy of 57.73% but accuracy of 0.7249. 
+
+#### Day 7 - 7th of Janurary 2019 
+Playing with hyper-params and making a program for facial detection.
+
