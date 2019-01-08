@@ -28,3 +28,6 @@ Made a model for CIFAR 100 using the 100 labels, achieving validation accuracy o
 #### Day 7 - 7th of Janurary 2019 
 Playing with hyper-params and making a program for facial detection.
 
+#### Day 8 - 8th of Janurary 2019 
+Creating bounding boxes for faces from CIFAR-100 Dataset. 
+
