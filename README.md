@@ -31,3 +31,9 @@ Playing with hyper-params and making a program for facial detection.
 #### Day 8 - 8th of Janurary 2019 
 Creating bounding boxes for faces from CIFAR-100 Dataset. 
 
+#### Day 9 - 9th of Janurary 2019 
+Used leaky relu and managed to get 60% accuracy. 
+
+#### Day 10 - 10th of January 
+Looked into training my own haar cascade classifier. 
+
