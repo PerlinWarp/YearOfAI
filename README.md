@@ -37,3 +37,5 @@ Used leaky relu and managed to get 60% accuracy.
 #### Day 10 - 10th of January 
 Looked into training my own haar cascade classifier. 
 
+#### Day 11 - 11th of January 
+Looking into different arcitectures and training different models for CIFAR100
