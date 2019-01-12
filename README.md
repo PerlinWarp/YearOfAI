@@ -41,3 +41,6 @@ Looked into training my own haar cascade classifier.
 
 #### Day 11 - 11th of January 
 Looking into different arcitectures and training different models for CIFAR100
+
+#### Day 12 - 12th of January 
+Learning about RNNs.
