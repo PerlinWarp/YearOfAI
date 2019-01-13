@@ -44,3 +44,7 @@ Looking into different arcitectures and training different models for CIFAR100
 
 #### Day 12 - 12th of January 
 Learning about RNNs.
+
+#### Day 13 - 13th of January 
+[Kaggle Timeseries prediction with Siraj Raval.](https://www.kaggle.com/learn/time-series-with-siraj)
+
