@@ -48,3 +48,5 @@ Learning about RNNs.
 #### Day 13 - 13th of January 
 [Kaggle Timeseries prediction with Siraj Raval.](https://www.kaggle.com/learn/time-series-with-siraj)
 
+#### Day 14 - 14th of January
+Stock price prediction. 
