@@ -50,3 +50,6 @@ Learning about RNNs.
 
 #### Day 14 - 14th of January
 Stock price prediction. 
+
+#### Day 15 - 15th of January
+Read up on ARIMA, Moving averages, Single Exponential smoothing, Holt's linear and Holts Winter methods. 
