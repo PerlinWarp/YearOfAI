@@ -52,4 +52,7 @@ Learning about RNNs.
 Stock price prediction. 
 
 #### Day 15 - 15th of January
-Read up on ARIMA, Moving averages, Single Exponential smoothing, Holt's linear and Holts Winter methods. 
+Read up on ARIMA, Moving averages, Single Exponential smoothing, Holt's linear and Holts Winter methods.
+
+#### Day 16 - 16th of January
+Read Man vs Big Data
