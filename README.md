@@ -56,3 +56,6 @@ Read up on ARIMA, Moving averages, Single Exponential smoothing, Holt's linear a
 
 #### Day 16 - 16th of January
 Read Man vs Big Data
+
+#### Day 17 - 17th of January 
+Started Quantopian Lectures
