@@ -60,5 +60,8 @@ Read Man vs Big Data
 #### Day 17 - 17th of January 
 Started Quantopian Lectures
 
-#### Day 18 - 18h of January 
+#### Day 18 - 18th of January 
 [Quantopian Tutorial 1](https://www.quantopian.com/tutorials/getting-started)
+
+#### Day 19 - 19th of January 
+More quantopian tutorials and also setting up Zipline. 
