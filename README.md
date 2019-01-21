@@ -67,4 +67,7 @@ Started Quantopian Lectures
 More quantopian tutorials and also setting up Zipline. 
 
 #### Day 20 - 20th of January 
-Zipline tutorials and making a Neural Net to predict crypto.  
+Zipline tutorials and making a Neural Net to predict crypto. 
+
+#### Day 21 - 21th of January 
+Data preperation for the neural net. 
