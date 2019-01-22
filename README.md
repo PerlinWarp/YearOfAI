@@ -71,3 +71,6 @@ Zipline tutorials and making a Neural Net to predict crypto.
 
 #### Day 21 - 21th of January 
 Data preperation for the neural net. 
+
+#### Day 22 - 22th of January 
+Understanding input sizes for an LSTM. 
