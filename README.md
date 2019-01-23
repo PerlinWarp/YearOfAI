@@ -74,3 +74,6 @@ Data preperation for the neural net.
 
 #### Day 22 - 22th of January 
 Understanding input sizes for an LSTM. 
+
+#### Day 23 - 23th of January 
+Made an LSTM but only got 47% accuracy. 
