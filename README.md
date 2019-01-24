@@ -77,3 +77,6 @@ Understanding input sizes for an LSTM.
 
 #### Day 23 - 23th of January 
 Made an LSTM but only got 47% accuracy. 
+
+#### Day 24 - 24th of January
+Setting up a Deep learning server, a MongoDB server and trying to create a Deep Learning pipeline. 
