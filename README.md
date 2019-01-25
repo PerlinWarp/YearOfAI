@@ -80,3 +80,6 @@ Made an LSTM but only got 47% accuracy.
 
 #### Day 24 - 24th of January
 Setting up a Deep learning server, a MongoDB server and trying to create a Deep Learning pipeline. 
+
+#### Day 25 - 25th of January
+Making a backtester.
