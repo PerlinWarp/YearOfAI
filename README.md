@@ -83,3 +83,6 @@ Setting up a Deep learning server, a MongoDB server and trying to create a Deep 
 
 #### Day 25 - 25th of January
 Making a backtester.
+
+#### Day 26 - 26th of January
+Working on super secret trading algorithms for herobots. 
