@@ -86,3 +86,6 @@ Making a backtester.
 
 #### Day 26 - 26th of January
 Working on super secret trading algorithms for herobots. 
+
+#### Day 27 - 27th of January
+Working on the super secret trading algorithms for herobots. 
