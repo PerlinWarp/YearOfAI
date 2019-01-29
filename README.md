@@ -89,3 +89,9 @@ Working on super secret trading algorithms for herobots.
 
 #### Day 27 - 27th of January
 Working on the super secret trading algorithms for herobots. 
+
+#### Day 28 - 28th of January
+Learned about the importance of not using shuffle to create test/train splits. Scaling and normalising data. Then implemented a preprocessing algorithm in python. 
+
+#### Day 29 - 29th of January
+Learned Tensorboard and started to remake a model using different data.
