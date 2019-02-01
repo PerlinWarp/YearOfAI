@@ -101,3 +101,6 @@ Looked into different moving averages for modelling. Also looked into GANs.
 
 #### Day 31- 31th of January
 [Data Lit](https://www.youtube.com/watch?v=3Pzni2yfGUQ)
+
+#### Day 32- 1st of February
+Working on data preprocessing and gathering BTC price data. 
