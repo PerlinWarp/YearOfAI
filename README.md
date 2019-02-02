@@ -103,4 +103,7 @@ Looked into different moving averages for modelling. Also looked into GANs.
 [Data Lit](https://www.youtube.com/watch?v=3Pzni2yfGUQ)
 
 #### Day 32- 1st of February
-Working on data preprocessing and gathering BTC price data. 
+Working on data preprocessing and gathering BTC price data. Checking for missing data. 
+
+#### Day 33- 2nd of February
+Looked info reinforcement learning. 
