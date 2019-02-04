@@ -110,3 +110,6 @@ Looked info reinforcement learning.
 
 #### Day 34- 3rd of February
 Data cleaning using Pandas. 
+
+#### Day 35- 4rd of February
+[Data Lit 2- Intro to Statistics ](https://www.youtube.com/watch?v=MdHtK7CWpCQ)
