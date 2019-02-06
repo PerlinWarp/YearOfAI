@@ -99,20 +99,23 @@ Learned Tensorboard and started to remake a model using different data.
 #### Day 30 - 30th of January
 Looked into different moving averages for modelling. Also looked into GANs. 
 
-#### Day 31- 31th of January
+#### Day 31 - 31th of January
 [Data Lit](https://www.youtube.com/watch?v=3Pzni2yfGUQ)
 
-#### Day 32- 1st of February
+#### Day 32 - 1st of February
 Working on data preprocessing and gathering BTC price data. Checking for missing data. 
 
-#### Day 33- 2nd of February
+#### Day 33 - 2nd of February
 Looked info reinforcement learning.
 
-#### Day 34- 3rd of February
+#### Day 34 - 3rd of February
 Data cleaning using Pandas. 
 
-#### Day 35- 4rd of February
+#### Day 35 - 4rd of February
 [Data Lit 2- Intro to Statistics ](https://www.youtube.com/watch?v=MdHtK7CWpCQ)
 
-#### Day 36- 5th of February
+#### Day 36 - 5th of February
 More data cleaning. 
+
+#### Day 37 - 6th of February
+Checking for time continutity in 2 time series datasets of over 750,000 points each. 
