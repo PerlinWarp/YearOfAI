@@ -119,3 +119,6 @@ More data cleaning.
 
 #### Day 37 - 6th of February
 Checking for time continutity in 2 time series datasets of over 750,000 points each. 
+
+#### Day 38 - 7th of February
+Fitting hyper parameters for BTC prediction model. 
