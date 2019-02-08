@@ -122,3 +122,6 @@ Checking for time continutity in 2 time series datasets of over 750,000 points e
 
 #### Day 38 - 7th of February
 Fitting hyper parameters for BTC prediction model. 
+
+#### Day 39 - 8th of February
+Connected to a new MongoDB server, lined up different time series in pandas while checking for missing results. Started to make a pipeline to pull data minutely and run a LTSM on it. 
