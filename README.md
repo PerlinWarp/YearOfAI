@@ -125,3 +125,6 @@ Fitting hyper parameters for BTC prediction model.
 
 #### Day 39 - 8th of February
 Connected to a new MongoDB server, lined up different time series in pandas while checking for missing results. Started to make a pipeline to pull data minutely and run a LTSM on it. 
+
+#### Day 40 - 9th of February
+Started to set up a machine learning pipeline that will pull data, run a model and submit the predictions to a database.
