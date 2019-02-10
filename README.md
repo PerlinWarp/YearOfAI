@@ -128,3 +128,6 @@ Connected to a new MongoDB server, lined up different time series in pandas whil
 
 #### Day 40 - 9th of February
 Started to set up a machine learning pipeline that will pull data, run a model and submit the predictions to a database.
+
+#### Day 41 - 10th of February
+Continued working on a pipeline.
