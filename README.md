@@ -131,3 +131,9 @@ Started to set up a machine learning pipeline that will pull data, run a model a
 
 #### Day 41 - 10th of February
 Continued working on a pipeline.
+
+#### Day 42 - 11th of February 
+Continued working on a pipeline, gathered and cleaned more data sources.
+
+#### Day 43 - 12th of February 
+Started making a model with more data sources. 
