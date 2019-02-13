@@ -137,3 +137,6 @@ Continued working on a pipeline, gathered and cleaned more data sources.
 
 #### Day 43 - 12th of February 
 Started making a model with more data sources. 
+
+#### Day 44 - 13th of February 
+Deployed a test version of the algorithm to the server, set up authentification and cronjobs. 
