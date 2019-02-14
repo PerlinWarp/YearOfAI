@@ -140,3 +140,6 @@ Started making a model with more data sources.
 
 #### Day 44 - 13th of February 
 Deployed a test version of the algorithm to the server, set up authentification and cronjobs. 
+
+#### Day 45 - 14th of February 
+Backtesting and changing the algorithms. 
