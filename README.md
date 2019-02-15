@@ -143,3 +143,6 @@ Deployed a test version of the algorithm to the server, set up authentification 
 
 #### Day 45 - 14th of February 
 Backtesting and changing the algorithms. 
+
+#### Day 46 - 15th of February 
+Making a new LSTM model using more data. 
