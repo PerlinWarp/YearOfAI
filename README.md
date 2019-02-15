@@ -145,4 +145,4 @@ Deployed a test version of the algorithm to the server, set up authentification 
 Backtesting and changing the algorithms. 
 
 #### Day 46 - 15th of February 
-Making a new LSTM model using more data. 
+Making a new LSTM model using more data. Looked into different ways to automate [hyperparameter picking](https://blog.floydhub.com/guide-to-hyperparameters-search-for-deep-learning-models/).
