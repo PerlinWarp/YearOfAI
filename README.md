@@ -149,3 +149,6 @@ Making a new LSTM model using more data. Looked into different ways to automate 
 
 #### Day 47 - 16h of February 
 Looked at the effect of equalising the amount of data I have in each catagory on classification validation accuracy, changed hyperparameters. 
+
+#### Day 48 - 17h of February 
+When pulling the data from apis to run the model on, most of the values are NaNs, today was spent figuirng out why. I also remade data preprocessing algorithms. 
