@@ -152,3 +152,6 @@ Looked at the effect of equalising the amount of data I have in each catagory on
 
 #### Day 48 - 17h of February 
 When pulling the data from apis to run the model on, most of the values are NaNs, today was spent figuirng out why. I also remade data preprocessing algorithms. 
+
+#### Day 49 - 18h of February 
+Deplotying and testing a new LSTM on the BTC data. 
