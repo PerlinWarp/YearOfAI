@@ -155,3 +155,6 @@ When pulling the data from apis to run the model on, most of the values are NaNs
 
 #### Day 49 - 18h of February 
 Deplotying and testing a new LSTM on the BTC data. 
+
+#### Day 50 - 19h of February 
+Making a new model for ETH data, trying new arcitectures and seeing the effect of removing sparse data sources to give more data overall. 
