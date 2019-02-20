@@ -147,14 +147,17 @@ Backtesting and changing the algorithms.
 #### Day 46 - 15th of February 
 Making a new LSTM model using more data. Looked into different ways to automate [hyperparameter picking](https://blog.floydhub.com/guide-to-hyperparameters-search-for-deep-learning-models/).
 
-#### Day 47 - 16h of February 
+#### Day 47 - 16th of February 
 Looked at the effect of equalising the amount of data I have in each catagory on classification validation accuracy, changed hyperparameters. 
 
-#### Day 48 - 17h of February 
+#### Day 48 - 17th of February 
 When pulling the data from apis to run the model on, most of the values are NaNs, today was spent figuirng out why. I also remade data preprocessing algorithms. 
 
-#### Day 49 - 18h of February 
+#### Day 49 - 18th of February 
 Deplotying and testing a new LSTM on the BTC data. 
 
-#### Day 50 - 19h of February 
+#### Day 50 - 19th of February 
 Making a new model for ETH data, trying new arcitectures and seeing the effect of removing sparse data sources to give more data overall. 
+
+#### Day 51 - 20h of February 
+Testing out more new models. 
