@@ -159,5 +159,8 @@ Deplotying and testing a new LSTM on the BTC data.
 #### Day 50 - 19th of February 
 Making a new model for ETH data, trying new arcitectures and seeing the effect of removing sparse data sources to give more data overall. 
 
-#### Day 51 - 20h of February 
+#### Day 51 - 20th of February 
 Testing out more new models. 
+
+#### Day 52 - 21th of February 
+Looked into decision trees and the mathematics behind neural networks. 
