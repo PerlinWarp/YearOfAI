@@ -164,3 +164,6 @@ Testing out more new models.
 
 #### Day 52 - 21th of February 
 Looked into decision trees and the mathematics behind neural networks. 
+
+#### Day 53 - 22th of February 
+Migrating to a MongoDB database to fix the problem of getting NaN values so we can make a Decision Tree. 
