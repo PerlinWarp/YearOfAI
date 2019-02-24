@@ -167,3 +167,9 @@ Looked into decision trees and the mathematics behind neural networks.
 
 #### Day 53 - 22th of February 
 Migrating to a MongoDB database to fix the problem of getting NaN values so we can make a Decision Tree. 
+
+#### Day 54 - 23th of February 
+Wrote a script to use a backup model for when I am creating a new model so the GPU is busy and cannot commit. 
+
+#### Day 55 - 24th of February 
+Started to make a decision tree. 
