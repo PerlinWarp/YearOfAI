@@ -173,3 +173,6 @@ Wrote a script to use a backup model for when I am creating a new model so the G
 
 #### Day 55 - 24th of February 
 Started to make a decision tree. 
+
+#### Day 56 - 25th of February 
+Made backups of all of my Python Notebooks from my summer work. Allowing me to search through and reuse my models but also migrate to a new server. 
