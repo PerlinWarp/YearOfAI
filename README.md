@@ -180,5 +180,8 @@ Made backups of all of my Python Notebooks from my summer work. Allowing me to s
 #### Day 57 - 26th of February
 Learned about k fold validation and Reinforcement learning.
 
-#### Day 58 - 29th of February
-Calculated decision trees manually calculating entropy and gain. 
+#### Day 58 - 27th of February
+Calculated decision trees manually calculating entropy and gain.
+
+#### Day 59 - 28th of Febuary
+Looked into the mathematics behind Reinforcement learning.
