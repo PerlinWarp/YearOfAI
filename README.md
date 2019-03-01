@@ -185,3 +185,6 @@ Calculated decision trees manually calculating entropy and gain.
 
 #### Day 59 - 28th of Febuary
 Looked into the mathematics behind Reinforcement learning.
+
+#### Day 60 - 1st of March
+Started making an accuracy checker for different machine learning models. 
