@@ -188,3 +188,6 @@ Looked into the mathematics behind Reinforcement learning.
 
 #### Day 60 - 1st of March
 Started making an accuracy checker for different machine learning models. 
+
+#### Day 61 - 2nd of March 
+Continued making the accuracy checker and found bugs in the API we are using. 
