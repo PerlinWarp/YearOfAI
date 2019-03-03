@@ -191,3 +191,6 @@ Started making an accuracy checker for different machine learning models.
 
 #### Day 61 - 2nd of March 
 Continued making the accuracy checker and found bugs in the API we are using. 
+
+#### Day 62 - 3rd of March 
+Finished work on the accuracy checker. 
