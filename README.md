@@ -194,3 +194,7 @@ Continued making the accuracy checker and found bugs in the API we are using.
 
 #### Day 62 - 3rd of March 
 Finished work on the accuracy checker. 
+
+#### Day 63 - 4rd of March 
+Looked into using a SAT solver to create a suduko AI. 
+
