@@ -198,3 +198,5 @@ Finished work on the accuracy checker.
 #### Day 63 - 4rd of March 
 Looked into using a SAT solver to create a suduko AI. 
 
+#### Day 64 - 5th of March 
+Made a 3 step system for testing ML models and backing up cronjobs. 
