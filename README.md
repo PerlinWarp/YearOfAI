@@ -200,3 +200,6 @@ Looked into using a SAT solver to create a suduko AI.
 
 #### Day 64 - 5th of March 
 Made a 3 step system for testing ML models and backing up cronjobs. 
+
+#### Day 65 - 6th of March 
+Compared our different models using the accuracy checker
