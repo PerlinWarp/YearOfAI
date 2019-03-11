@@ -205,4 +205,7 @@ Made a 3 step system for testing ML models and backing up cronjobs.
 Compared our different models using the accuracy checker.
 
 #### Day 66 - 7th of March
-Adding Sentry tracking to submissions. 
+Adding Sentry tracking to testing submissions. 
+
+#### Day 67 - 11th of March
+Adding Sentry tracking to BTC submissions and backup submissions incase of errors. 
