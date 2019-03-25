@@ -209,3 +209,6 @@ Adding Sentry tracking to testing submissions.
 
 #### Day 67 - 11th of March
 Adding Sentry tracking to BTC submissions and backup submissions incase of errors. 
+
+#### Day 68 - 25th of March
+After taking some time off for personal reasons, today I got back into things. Added some more models and checked my progress for herobots planning what I need to do next. 
