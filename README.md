@@ -212,3 +212,8 @@ Adding Sentry tracking to BTC submissions and backup submissions incase of error
 
 #### Day 68 - 25th of March
 After taking some time off for personal reasons, today I got back into things. Added some more models and checked my progress for herobots planning what I need to do next. 
+
+#### Day 69 - 26th of March
+Switched to a new model for ETH prediction. 
+Created a ETH spot check using Logistic Regression, Random Forests, KNN, Naive Bayes and XGBoost. 
+Looked at the feature importances for XGBoost.
