@@ -217,3 +217,10 @@ After taking some time off for personal reasons, today I got back into things. A
 Switched to a new model for ETH prediction. 
 Created a ETH spot check using Logistic Regression, Random Forests, KNN, Naive Bayes and XGBoost. 
 Looked at the feature importances for XGBoost.
+
+#### Day 70 - 27th of March
+Moved the new model for ETH prediction to testing. 
+Added documentation. 
+Set up logging into the database submissions if prediction fails. 
+
+
