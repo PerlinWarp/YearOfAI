@@ -223,4 +223,5 @@ Moved the new model for ETH prediction to testing.
 Added documentation. 
 Set up logging into the database submissions if prediction fails. 
 
-
+#### Day 71 - 28th of March
+Retested old LSTM models and algorithmically created new features, creating a pipeline to test XGBoost models. 
