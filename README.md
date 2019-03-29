@@ -225,3 +225,7 @@ Set up logging into the database submissions if prediction fails.
 
 #### Day 71 - 28th of March
 Retested old LSTM models and algorithmically created new features, creating a pipeline to test XGBoost models. 
+
+#### Day 72 - 29th of March
+Made various Logistic Regression models but most of my day was spent making my own backtester. Then creating a fuly automated pipeline that creates models for me, backtests them and then saves the results. I am very happy. 
+
