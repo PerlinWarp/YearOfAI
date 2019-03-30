@@ -229,3 +229,9 @@ Retested old LSTM models and algorithmically created new features, creating a pi
 #### Day 72 - 29th of March
 Made various Logistic Regression models but most of my day was spent making my own backtester. Then creating a fuly automated pipeline that creates models for me, backtests them and then saves the results. I am very happy. 
 
+#### Day 73 - 30th of March
+Watched Statistics lectures. 
+Made more XGBoost models, created and backtested many more models and added more features to my model creator. 
+
+
+
