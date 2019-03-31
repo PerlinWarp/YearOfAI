@@ -233,5 +233,7 @@ Made various Logistic Regression models but most of my day was spent making my o
 Watched Statistics lectures. 
 Made more XGBoost models, created and backtested many more models and added more features to my model creator. 
 
+#### Day 74 - 31th of March
+Watched lectures on Autocorrelation, learned about how variance estimates are different for autocorrelated data. Tested data for auto correletion. Reran my auto model generator and backtester on ETH. 
 
 
