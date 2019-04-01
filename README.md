@@ -236,4 +236,7 @@ Made more XGBoost models, created and backtested many more models and added more
 #### Day 74 - 31th of March
 Watched lectures on Autocorrelation, learned about how variance estimates are different for autocorrelated data. Tested data for auto correletion. Reran my auto model generator and backtester on ETH. 
 
+#### Day 75 - 1st of April
+Manually made a new model that predicts with 100%. 
+... And solved P = NP, well P != NP. 
 
