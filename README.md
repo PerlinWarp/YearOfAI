@@ -240,3 +240,6 @@ Watched lectures on Autocorrelation, learned about how variance estimates are di
 Manually made a new model that predicts with 100%. 
 ... And solved P = NP, well P != NP. 
 
+#### Day 76 - 2st of April
+Made an AR model and more logistic regression models with added features. 
+
