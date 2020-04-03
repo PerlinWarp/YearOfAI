@@ -243,3 +243,5 @@ Manually made a new model that predicts with 100%.
 #### Day 76 - 2st of April
 Made an AR model and more logistic regression models with added features. 
 
+#### Day 77 - 3rd of April
+[PyTorch 60 Minute blitz](https://pytorch.org/tutorials/beginner/blitz/tensor_tutorial.html#sphx-glr-beginner-blitz-tensor-tutorial-py)
