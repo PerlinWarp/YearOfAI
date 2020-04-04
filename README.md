@@ -7,32 +7,32 @@ I am starting off with the #100DaysOfMLCode challenge.
 
 I am also very fond of Kaggle, [here is mine](https://www.kaggle.com/perlinwarp).
 
-#### Day 1 - 1st of January 2019
+#### Day 1 - 1st of January
 Tried to classify CIFAR 10 using a 4 layer model in Keras. [Link to Notebook](https://github.com/PerlinWarp/YearOfAI/blob/master/CIFAR10.ipynb)
 
-#### Day 2 - 2nd of January 2019
+#### Day 2 - 2nd of January
 Added a 6 layer model, trained it and compared accuracy between the 2 models.
 
-#### Day 3 - 3rd of January 2019
+#### Day 3 - 3rd of January
 Tried to figure out why my model sucks so badly.
 
-#### Day 4 - 4rd of January 2019
+#### Day 4 - 4rd of January
 Made a new model and got 84.98% accuracy.
 
-#### Day 5 - 5th of January 2019
+#### Day 5 - 5th of January
 Started to work on the CIFAR100 Dataset.
 
-#### Day 6 - 6th of Janurary 2019
+#### Day 6 - 6th of Janurary
 Made a model for CIFAR 100 using the 100 labels, achieving validation accuracy of 57.73% but accuracy of 0.7249.
 
-#### Day 7 - 7th of Janurary 2019
+#### Day 7 - 7th of Janurary
 Playing with hyper-params and making a program for facial detection.
 
-#### Day 8 - 8th of Janurary 2019
+#### Day 8 - 8th of Janurary
 Creating bounding boxes for faces from CIFAR-100 Dataset.
 [Link to Notebook](https://github.com/PerlinWarp/YearOfAI/blob/master/BoundingBoxes/BoundingBoxes.ipynb)
 
-#### Day 9 - 9th of Janurary 2019
+#### Day 9 - 9th of Janurary
 Used leaky relu and managed to get 60% accuracy.
 [Link to Notebook](https://github.com/PerlinWarp/YearOfAI/blob/master/CIFAR100/CIFAR100-6.ipynb)
 
@@ -176,6 +176,7 @@ Started to make a decision tree.
 
 #### Day 56 - 25th of February
 Made backups of all of my Python Notebooks from my summer work. Allowing me to search through and reuse my models but also migrate to a new server.
+Started Fast.ai Practical Deeplearning for coders. 
 
 #### Day 57 - 26th of February
 Learned about k fold validation and Reinforcement learning.
@@ -235,10 +236,12 @@ Made more XGBoost models, created and backtested many more models and added more
 
 #### Day 74 - 31th of March
 Watched lectures on Autocorrelation, learned about how variance estimates are different for autocorrelated data. Tested data for auto correletion. Reran my auto model generator and backtester on ETH. 
+Derived Perceptrons from scratch. 
 
 #### Day 75 - 1st of April
 Manually made a new model that predicts with 100%. 
 ... And solved P = NP, well P != NP. 
+Presented a demo of Sigmoids and Universal Apprximation Theory. 
 
 #### Day 76 - 2st of April
 Made an AR model and more logistic regression models with added features. 
