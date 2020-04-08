@@ -248,3 +248,21 @@ Made an AR model and more logistic regression models with added features.
 
 #### Day 77 - 3rd of April
 [PyTorch 60 Minute blitz](https://pytorch.org/tutorials/beginner/blitz/tensor_tutorial.html#sphx-glr-beginner-blitz-tensor-tutorial-py)
+
+#### Day 78 - 4th of April 
+ExplAIn
+
+#### Day 79 - 5th of April 
+ExplAIn
+
+#### Day 80 - 6th of April
+Showing how a linear line is equlivant to a perceptron without an activation function. 
+
+#### Day 81 - 7th of April
+Using my Perceptron Demo to solve XOR.
+
+#### Day 82 - 8th of April   
+Fast AI - Meet up 7
+
+Also watched:
+https://ml4a.github.io/classes/itp-F18/06/
