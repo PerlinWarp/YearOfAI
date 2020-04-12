@@ -266,3 +266,13 @@ Fast AI - Meet up 7
 
 Also watched:
 https://ml4a.github.io/classes/itp-F18/06/
+
+#### Day 85 - 11th of April
+Although creating Conway's Game of Life, which practically started the field of Cellular Autonama, would have been enough for one life to be will lived. It was just one small detour on your journey of mathematical genius. Seeing this as a child lead me to where I am now and gave me a passion for alife. 
+R.I.P John Conway.
+
+On this day I made an implimentation of Conways Game of life and started CodeLife, a project in alife. 
+
+#### Day 86 - 12th of April
+Created the player and perceptron agents for codelife. 
+
