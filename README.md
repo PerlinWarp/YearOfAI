@@ -276,3 +276,5 @@ On this day I made an implimentation of Conways Game of life and started CodeLif
 #### Day 86 - 12th of April
 Created the player and perceptron agents for codelife. 
 
+#### Day 87 - 13th of April
+![RL Codelife](media/codelife_rl.gif)
