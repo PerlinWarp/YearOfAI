@@ -278,3 +278,6 @@ Created the player and perceptron agents for codelife.
 
 #### Day 87 - 13th of April
 ![RL Codelife](media/codelife_rl.gif)
+
+#### Day 94 - 20th of April
+![Spinning RL Agent](media/Spinning.gif)
