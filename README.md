@@ -280,4 +280,20 @@ Created the player and perceptron agents for codelife.
 ![RL Codelife](media/codelife_rl.gif)
 
 #### Day 94 - 20th of April
+Making a new agent type on codelife. 
+The agent gets stuck spinning in circles... 
 ![Spinning RL Agent](media/Spinning.gif)
+
+#### Day 97 - 23rd of April:
+Adding Q Learning to codelife:
+
+My best performing RL agents before this point, only cared about immediate reward. Given that an agent could:
+* see a half dead grass patch and move onto it immeditely
+* see a half dead grass patch, rotate left and right, see a fully live grass patch and move onto it. 
+
+I thought that being able make decisions based on long term reward would help a new type of agent beat the 5329 frame high score. Excited at this prospect, I decided to code a new agent which uses a Q Table to make decisions. 
+
+![Q Learning Equation](https://wikimedia.org/api/rest_v1/media/math/render/svg/678cb558a9d59c33ef4810c9618baf34a9577686)
+
+This new type of agent now has some parameters, which I decided to optimise using a genetic algorithm. I track the max, min and average scores of each generation and plot them when I exit the simulation, however the results were not what I was looking for:
+![Q Table GA](media/QTableGA.png)
