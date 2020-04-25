@@ -297,3 +297,7 @@ I thought that being able make decisions based on long term reward would help a 
 
 This new type of agent now has some parameters, which I decided to optimise using a genetic algorithm. I track the max, min and average scores of each generation and plot them when I exit the simulation, however the results were not what I was looking for:
 ![Q Table GA](media/QTableGA.png)
+
+## Day 99 - 25th of April 
+Used the Python NEAT Libary to make a new codelife agent. 
+![NEAT AGENT](media/NEAT.gif)
