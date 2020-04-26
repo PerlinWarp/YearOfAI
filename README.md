@@ -301,3 +301,7 @@ This new type of agent now has some parameters, which I decided to optimise usin
 ## Day 99 - 25th of April 
 Used the Python NEAT Libary to make a new codelife agent. 
 ![NEAT AGENT](media/NEAT.gif)
+
+## Day 100 - 26th of April :D
+Started making a particle system to create a dynamic enviroment for codelife. 
+![pyParticles](media/PyParticles.gif)
